@@ -11,7 +11,7 @@
 - **Config (`config`):** Модуль для чтения настроек из `config.properties`.
 
 ## Как запустить
-1. Склонируйте репозиторий: `git clone https://github.com/ВАШ_НИК/link-shortener.git`
+1. Склонируйте репозиторий: `[git clone https://github.com/ВАШ_НИК/link-shortener.git](https://github.com/GuslyakovDaniil/Short_Link_Service.git)`
 2. Перейдите в папку проекта: `cd link-shortener`
 3. Соберите проект с помощью Maven: `mvn clean package`
 4. Запустите приложение из командной строки: `java -jar target/link-shortener-1.0-SNAPSHOT.jar`
